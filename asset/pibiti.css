@@ -1,0 +1,31 @@
+*{
+    font-family: 'Balsamiq Sans', sans-serif;
+}
+.Garis_bawah{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+.container-width{
+    padding: 0px 300px 0px 300px;
+}
+hr{
+    border: 2px solid black;
+    opacity: 1;
+    margin: 0;
+}
+.custom-select{
+    width: 200px;
+    border: 2px solid black;
+}
+.border-card{
+ border: 2px solid black;
+}
+.footerp{
+     padding-right: 10px;
+}
+.card-image{ 
+    width: 100%;
+    object-fit: cover;
+
+}
